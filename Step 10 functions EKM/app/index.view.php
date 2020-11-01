@@ -2,8 +2,7 @@
 
 <?php
 
-//Functions used must be included in the php document they are used in.
-require 'myFunctions.php';
+
 
 varDumpIncludedFiles();
 isTwentyOnePlus(20);
